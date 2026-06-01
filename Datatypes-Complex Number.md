@@ -13,24 +13,12 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program
 ```
-a = int(input("Enter first integer: "))
-b = int(input("Enter second integer: "))
-
-c = complex(a, b)
-
-print("Complex number =", c)
-print("Real part =", c.real)
-print("Imaginary part =", c.imag)
+a = int(input())
+b = int(input())
+x = complex(a, b)
+print(x)
+print(x.real)
+print(x.imag)
 ```
-
 ## Output
-```
-Enter first integer: 4
-Enter second integer: 3
-Complex number = (4+3j)
-Real part = 4.0
-Imaginary part = 3.0
-```
-
-## Result
-the output is verified
+<img width="358" height="229" alt="{0B92B115-CE76-4AC6-80E6-886D8F56A168}" src="https://github.com/user-attachments/assets/6dd38528-c2fb-46d7-9de6-ad1ab3e1747f" />
