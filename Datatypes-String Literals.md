@@ -14,9 +14,6 @@ text = input("Enter a string: ")
 print("You entered:", text)
 ```
 ## Output
-```
-Enter a string: Hello
-You entered: Hello
-```
+<img width="315" height="139" alt="{5B20E59A-8E4F-4C48-964B-CA73D5E3994A}" src="https://github.com/user-attachments/assets/cee9a008-aae0-44e7-b10a-e0bee63ece58" />
 ## Result
 the output is verified
